@@ -9,3 +9,4 @@
 9. python3 manage.py createsuperuser
 10. python3 manage.py startapp posts
 11. pip3 freeze > req.txt
+12. python3 manage.py makemigrations
